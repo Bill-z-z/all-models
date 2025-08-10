@@ -53,6 +53,7 @@ The goal: **Improve classification accuracy and robustness in biodiversity monit
 ---
 
 ## 📊 Project Flow Diagram
-![](./wildlife_data_complement_flow.png)
+![](wildlife_data_complement_flow.png)
+
 
 ---
